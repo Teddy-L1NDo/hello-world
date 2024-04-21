@@ -1,2 +1,2 @@
 # hello-world
-I am just practising using GitHub
+Hi, My Name Is (x3) SLim-TEddy
