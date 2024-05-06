@@ -21,3 +21,4 @@ Hi, My Name Is (x3) SLim-TEddy
 ![RPOI](https://unsplash.com/photos/a-pathway-leading-to-a-field-of-flowers-Hj2J0pG5ktg)
 
 ### Same picture, but on file structure
+![RPOI](RandomPicture.jpg)
